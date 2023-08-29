@@ -23,7 +23,35 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<!-- fg=green bg=black -->
+# Welcome to Coding
+![codio](start_class.yml)
+
+speed: 6
+lines:
+- prompt: Mr.H $
+  in: pwd
+  color: green
+- out: '    home'
+  color: green
+  bold: True
+- prompt: Mr.H $
+  in: cd DATA/coding/
+  color: green
+- out: '    cwd = DATA/coding/'
+  color: green
+  bold: True
+- prompt: Mr.H $
+  in: run --start_class
+  color: green
+- out: '    Please Login to Canvas'
+  color: green
+  bold: True
+- out: '    Students are logging in'
+  color: green
+  bold: True
+- progress: true
+  progressChar: █
 
 
 </a>
