@@ -12,17 +12,18 @@
 
 - 🏢 I'm a Communication Engineering student.
 - 👨‍💻 As a Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🧠 I'm currently learning embedded system.
 
 
 ### Connect with Me :
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Ayman-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Skills
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 
 </a>
